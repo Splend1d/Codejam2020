@@ -29,8 +29,8 @@ Categorize into the 1 of the 2 scenarios below according to the digit result.
 
 1. The staring digits are the reverse of the ending digits, or the staring digits is the reverse of the ending digits complemented
 ```
-ex1 : Staring digits : 10000 Last five digits : 00001
-ex2 : Ending digits : 10000 Last five digits : 11110
+ex1 : Staring digits : 10000 Ending digits : 00001
+ex2 : Staring digits : 10000 Ending digits : 11110
 ```
 In ex1, there will only be 2 results for 4 different operations : complement == complement and reverse != reverse == no change
 In ex2, there will only be 2 results for 4 different operations : complement == reverse != complement and reverse == no change
